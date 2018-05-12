@@ -1,0 +1,42 @@
+_repo: The-Cid-CampeadorA-Historical-Romance_41990
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Gill, Henry Joseph
+    alias: Gill, Henry J.
+    birthdate: 1836
+    deathdate: 1903
+    gutenberg_agent_id: '41469'
+    url: http://www.gutenberg.org/2009/agents/41469
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Trueba, Antonio de
+    aliases:
+    - Quintana, Antonio Manuel María de Trueba y la
+    - Quintana, Antonio Manuel Maria de Trueba y la
+    - De Trueba, Antonio
+    - Trueba y la Quintana, Antonio Manuel María de
+    - Trueba, António de
+    birthdate: 1819
+    deathdate: 1889
+    gutenberg_agent_id: '31442'
+    url: http://www.gutenberg.org/2009/agents/31442
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_de_Trueba
+description: ''
+gutenberg_issued: '2013-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41990'
+  lccn: 01011830
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Cid, approximately 1043-1099 -- Fiction'
+title: 'The Cid Campeador: A Historical Romance'
+url: http://www.gutenberg.org/ebooks/41990
