@@ -26,6 +26,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31442
     wikipedia: http://en.wikipedia.org/wiki/Antonio_de_Trueba
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41990#The-Cid-CampeadorA-Historical-Romance
 gutenberg_issued: '2013-02-03'
 gutenberg_type: Text
 identifiers:
